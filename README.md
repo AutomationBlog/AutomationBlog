@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **HTML, CSS, JS, React, Automation Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AutomationBlog](https://github.com/AutomationBlog)
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/AutomationBlog)
 
-- 📝 I regularly write articles on [https://automationblog.github.io/myprofile/](https://automationblog.github.io/myprofile/)
+- 📝 I regularly write articles on [Portfolio](https://automationblog.github.io/myprofile/)
 
 - 📫 How to reach me **sanwin24@gmail.com**
 
-- 📄 Know about my experiences [https://www.cvwizard.com/d/1eu7KHWKnUTUq2sclvxhzv/view](https://www.cvwizard.com/d/1eu7KHWKnUTUq2sclvxhzv/view)
+- 📄 Know about my experiences [Resume](https://www.cvwizard.com/d/1eu7KHWKnUTUq2sclvxhzv/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
